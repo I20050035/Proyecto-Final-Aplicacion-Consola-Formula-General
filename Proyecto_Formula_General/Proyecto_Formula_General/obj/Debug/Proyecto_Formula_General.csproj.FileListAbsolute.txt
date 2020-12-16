@@ -1,0 +1,7 @@
+C:\Users\Usuario\source\repos\Proyecto_Formula_General\Proyecto_Formula_General\bin\Debug\Proyecto_Formula_General.exe.config
+C:\Users\Usuario\source\repos\Proyecto_Formula_General\Proyecto_Formula_General\bin\Debug\Proyecto_Formula_General.exe
+C:\Users\Usuario\source\repos\Proyecto_Formula_General\Proyecto_Formula_General\bin\Debug\Proyecto_Formula_General.pdb
+C:\Users\Usuario\source\repos\Proyecto_Formula_General\Proyecto_Formula_General\obj\Debug\Proyecto_Formula_General.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\Proyecto_Formula_General\Proyecto_Formula_General\obj\Debug\Proyecto_Formula_General.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Proyecto_Formula_General\Proyecto_Formula_General\obj\Debug\Proyecto_Formula_General.exe
+C:\Users\Usuario\source\repos\Proyecto_Formula_General\Proyecto_Formula_General\obj\Debug\Proyecto_Formula_General.pdb
